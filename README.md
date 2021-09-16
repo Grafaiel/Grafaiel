@@ -5,8 +5,10 @@
 ## Opa, prazer sou Gabriel Rafaiel Bercelline
 <br>
 <h3> Formação: </h3>
-  &nbsp; Graduado em Sistemas de Informação - Unipar (2015 - 2018). <br />
-  &nbsp; Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022). <br />
+- [x] &nbsp; Graduado em Sistemas de Informação - Unipar (2015 - 2018).
+ <br />
+- [] &nbsp; Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022). 
+<br />
 
 <br>
 <h3> Aqui um pouco do que eu venho estudando no meu dia dia </h3>
